@@ -11,3 +11,4 @@ Dalex, bir modelin nasıl karar aldığını anlamaya yardımcı olmak için bir
 ## Seaborn
 Seaborn, Python programlama dilinde kullanılan bir istatistik ve veri görselleştirme kütüphanesidir. Seaborn, Python'ın temel veri görselleştirme kütüphanesi olan Matplotlib kütüphanesini kullanarak, daha kolay ve hızlı bir şekilde veri setlerini görselleştirmeye olanak sağlar. Seaborn kütüphanesi, veri setlerini daha anlaşılır ve göze hitap eden görseller oluşturmak için çeşitli grafik tiplerini ve özelleştirme seçeneklerini sunar. Bu sayede, veri analizi sürecinde verileri daha kolay anlamaya ve analiz etmeye yardımcı olur.
 ## Görseller kısmında github da gözükmeyen grafiklerin resimleri vardır.
+## Veriler kısmında ise kullandığım veri setleri vardır.
