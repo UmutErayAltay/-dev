@@ -1,3 +1,5 @@
+## Karşılıklı Özellik Etkisi
+Karşılıklı özellik etkisi (mutual feature effect), bir makine öğrenimi modelinin tahminlerinde, bir özellik ile diğer özellikler arasındaki etkileşimin etkisinin olup olmadığını gösterir. Örneğin, bir sınıflandırma modeli oluşturulurken, bir özellik olarak cinsiyet verildiğinde bu özellik ile diğer özellikler arasında bir etkileşim olup olmadığı araştırılır. Eğer cinsiyet özelliği ile diğer özellikler arasında bir etkileşim olduğu tespit edilirse, modelin tahminlerinde cinsiyet özelliğinin etkisi diğer özelliklerle birlikte değerlendirilir. Bu sayede modelin tahminleri daha doğru hale gelebilir ve modelin anlaşılırlığı artar. Karşılıklı özellik etkisi, modelin çalışma mantığını anlamaya yardımcı olmak için araştırılır ve bu sayede modelin tahminlerinin nasıl yapıldığı daha iyi anlaşılır.
 ## ELI5 (Explain Like I'm 5):
 Bu paket, modelin tahminlerini basit ve anlaşılabilir bir dil kullanarak açıklar ve bu sayede modelin nasıl çalıştığını anlamayı kolaylaştırır.
 ## Shap:
